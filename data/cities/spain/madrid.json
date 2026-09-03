@@ -1,0 +1,19 @@
+{
+  "id": "es-mad-madrid",
+  "countryCode": "ES",
+  "countrySlug": "spain",
+  "region": "Comunidad de Madrid",
+  "name": "Madrid",
+  "slug": "madrid",
+  "coordinates": {"latitude": 40.4168, "longitude": -3.7038},
+  "languages": ["en", "es"],
+  "status": "published",
+  "editorial": {
+    "ratingDimensions": ["dough", "bake", "ingredients", "balance", "consistency"],
+    "restaurantProfilesVerified": 0
+  },
+  "routes": {
+    "en": "/spain/madrid/",
+    "es": "/es/spain/madrid/"
+  }
+}
