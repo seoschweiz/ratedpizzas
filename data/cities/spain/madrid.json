@@ -11,7 +11,10 @@
   },
   "languages": [
     "en",
-    "es"
+    "es",
+    "de",
+    "it",
+    "fr"
   ],
   "status": "published",
   "editorial": {
@@ -27,7 +30,10 @@
   },
   "routes": {
     "en": "/spain/madrid/",
-    "es": "/es/spain/madrid/"
+    "es": "/es/spain/madrid/",
+    "de": "/de/spain/madrid/",
+    "it": "/it/spain/madrid/",
+    "fr": "/fr/spain/madrid/"
   },
   "updated": "2026-09-04"
 }
