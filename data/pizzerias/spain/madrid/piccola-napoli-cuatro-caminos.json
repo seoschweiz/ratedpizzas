@@ -1,0 +1,30 @@
+{
+  "id": "es-mad-piccola-napoli-cuatro-caminos",
+  "name": "Pizzería Piccola Napoli | Cuatro Caminos",
+  "slug": "piccola-napoli-cuatro-caminos",
+  "cityId": "es-mad-madrid",
+  "status": "published",
+  "reviewStatus": "public-review-analysis",
+  "visitedByRatedPizzas": false,
+  "featuredPlacement": false,
+  "address": {
+    "street": "Calle de Palencia 29",
+    "postalCode": "28020",
+    "city": "Madrid",
+    "countryCode": "ES"
+  },
+  "district": "Tetuán",
+  "neighborhood": "Cuatro Caminos",
+  "telephone": "+34 911 43 71 21",
+  "website": "https://www.piccolanapoli.es/",
+  "instagram": "https://www.instagram.com/piccola_napoli/",
+  "priceRange": "€€",
+  "cuisines": ["pizza", "italian", "neapolitan"],
+  "languages": ["en", "es"],
+  "published": "2026-09-04",
+  "verified": "2026-09-04",
+  "routes": {
+    "en": "/spain/madrid/pizzerias/piccola-napoli-cuatro-caminos/",
+    "es": "/es/spain/madrid/pizzerias/piccola-napoli-cuatro-caminos/"
+  }
+}
