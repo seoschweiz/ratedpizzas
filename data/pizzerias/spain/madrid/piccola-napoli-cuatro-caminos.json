@@ -19,12 +19,25 @@
   "website": "https://www.piccolanapoli.es/",
   "instagram": "https://www.instagram.com/piccola_napoli/",
   "priceRange": "€€",
-  "cuisines": ["pizza", "italian", "neapolitan"],
-  "languages": ["en", "es"],
+  "cuisines": [
+    "pizza",
+    "italian",
+    "neapolitan"
+  ],
+  "languages": [
+    "en",
+    "es",
+    "de",
+    "it",
+    "fr"
+  ],
   "published": "2026-09-04",
   "verified": "2026-09-04",
   "routes": {
     "en": "/spain/madrid/pizzerias/piccola-napoli-cuatro-caminos/",
-    "es": "/es/spain/madrid/pizzerias/piccola-napoli-cuatro-caminos/"
+    "es": "/es/spain/madrid/pizzerias/piccola-napoli-cuatro-caminos/",
+    "de": "/de/spain/madrid/pizzerias/piccola-napoli-cuatro-caminos/",
+    "it": "/it/spain/madrid/pizzerias/piccola-napoli-cuatro-caminos/",
+    "fr": "/fr/spain/madrid/pizzerias/piccola-napoli-cuatro-caminos/"
   }
 }
